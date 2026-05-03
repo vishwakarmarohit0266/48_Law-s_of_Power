@@ -3,8 +3,9 @@ const CACHE_NAME = "48-laws-cache-v1";
 const urlsToCache = [
   "./",
   "./index.html",
-  "./style.css",
-  "./script.js"
+  "./main.css",
+  "./my.js",
+  "./manifest.json"
 ];
 
 // Install
